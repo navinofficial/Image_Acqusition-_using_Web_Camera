@@ -106,19 +106,19 @@ cap.release()
 
 ### i) Write the frame as JPG image
 
-![alt text](image.png)
+![alt text](output/cap.png)
 
 ### ii) Display the video
 
-![alt text](image-1.png)
+![alt text](output/image-1.png)
 
 ### iii) Display the video by resizing the window
 
-![alt text](image-2.png)
+![alt text](output/image-2.png)
 
 ### iv) Rotate and display the video
  
-![alt text](image-3.png)
+![alt text](output/image-3.png)
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
